@@ -1,0 +1,48 @@
+
+<markers>
+<marker group="0" lat="42.349572" lng="-71.088586" html="Back Bay Bicycles:&lt;br&gt;362 Commonwealth Ave, Boston, MA" label="Back Bay Bicycles" desc="362 Commonwealth Ave, Boston, MA" />
+<marker group="0" lat="42.35082" lng="-71.102505" html="Superb Bicycle:&lt;br&gt;842 Beacon Street, Boston, MA" label="Superb Bicycle" desc="842 Beacon Street, Boston, MA" />
+<marker group="0" lat="42.351792" lng="-71.115623" html="Landry's Bicycles:&lt;br&gt;890 Commonwealth Ave, Boston, MA" label="Landry's Bicycles" desc="890 Commonwealth Ave, Boston, MA" />
+<marker group="0" lat="42.346179" lng="-71.069403" html="Community Bicycle Supply:&lt;br&gt;496 Tremont Street, Boston, MA" label="Community Bicycle Supply" desc="496 Tremont Street, Boston, MA" />
+<marker group="0" lat="42.338476" lng="-71.066781" html="Erba Cycles:&lt;br&gt;535 Albany Street, Boston, MA" label="Erba Cycles" desc="535 Albany Street, Boston, MA" />
+<marker group="0" lat="42.354576" lng="-71.053541" html="Dutch Bicycle Company:&lt;br&gt;151 Pearl St #B, Boston, MA" label="Dutch Bicycle Company" desc="151 Pearl St #B, Boston, MA" />
+
+<marker group="0" lat="42.297477" lng="-71.056771" html="Codman Cycle Company:&lt;br&gt;353 Adams St, Dorchester, MA" label="Codman Cycle Company" desc="353 Adams St, Dorchester, MA" />
+<marker group="0" lat="42.28624" lng="-71.064614" html="Ashmont Cycles:&lt;br&gt;551 Talbot Ave, Dorchester, MA" label="Ashmont Cycles" desc="551 Talbot Ave, Dorchester, MA" />
+
+<marker group="0" lat="42.307596" lng="-71.115341" html="Ferris Wheels Bike Shop:&lt;br&gt;66 South Street, Jamaica Plain, MA" label="Ferris Wheels Bike Shop" desc="66 South Street, Jamaica Plain, MA" />
+<marker group="0" lat="42.30984" lng="-71.10709" html="Bikes Not Bombs:&lt;br&gt;18 Bartlett Sq, Jamaica, Plain, MA" label="Bikes Not Bombs" desc="18 Bartlett Sq, Jamaica, Plain, MA" />
+<marker group="0" lat="42.322258" lng="-71.1094" html="Revolution Bicycle Repair:&lt;br&gt;383 Centre St, Jamaica Plain, MA" label="Revolution Bicycle Repair" desc="383 Centre St, Jamaica Plain, MA" />
+
+<marker group="0" lat="42.370438" lng="-71.103477" html="Broadway Bicycle School:&lt;br&gt;351 Broadway St, Cambridge, MA" label="Broadway Bicycle School" desc="351 Broadway St, Cambridge, MA" />
+<marker group="0" lat="42.361909" lng="-71.097512" html="Cambridge Bicycle:&lt;br&gt;259 Massachusetts Ave, Cambridge, MA" label="Cambridge Bicycle" desc="259 Massachusetts Ave, Cambridge, MA" />
+<marker group="0" lat="42.380953" lng="-71.123194" html="Quad Bikes:&lt;br&gt;51 Shepard St, Cambridge, MA" label="Quad Bikes" desc="51 Shepard St, Cambridge, MA" />
+
+<marker group="0" lat="42.391255" lng="-71.118709" html="Ace Wheelworks:&lt;br&gt;145 Elm St, Somerville, MA" label="Ace Wheelworks" desc="145 Elm St, Somerville, MA" />
+<marker group="0" lat="42.400362" lng="-71.112962" html="Paramount Bicycle Repair:&lt;br&gt;104 Bristol Rd, Somerville, MA" label="Paramount Bicycle Repair" desc="104 Bristol Rd, Somerville, MA" />
+
+<marker group="0" lat="42.361021" lng="-71.129613" html="Bicycle Bill's:&lt;br&gt;253 North Harvard St., Boston, MA" label="Bicycle Bill's" desc="253 North Harvard St., Boston, MA" />
+<marker group="0" lat="42.352871" lng="-71.12957" html="International Bicycle Centers:&lt;br&gt;89 Brighton Ave, Boston, MA" label="International Bicycle Centers" desc="89 Brighton Ave, Boston, MA" />
+<marker group="0" lat="42.357015" lng="-71.144801" html="Alta Bicycle Share:&lt;br&gt;38 Guest Street, Brighton, MA" label="Alta Bicycle Share" desc="38 Guest Street, Brighton, MA" />
+
+
+
+<marker group="1" lat="42.35227" lng="-71.05524" html="South Station, Summer St. Boston, MA 02110.:&lt;br&gt;total Bikes 45" label="South Station" desc="total Bikes 45"/>
+<marker group="1" lat="42.351467" lng="-71.059216" html="Chinatown Gate Plaza / Surface Rd. at Beach St:&lt;br&gt;total Bikes 14" label="Chinatown Gate Plaza" desc="total Bikes 14"/>
+<marker group="1" lat="42.354833" lng="-71.058980" html="Summer st / Arch st:&lt;br&gt;total Bikes 11" label="Summer st / Arch st" desc="total Bikes 11"/>
+<marker group="1" lat="42.355142" lng="-71.063305" html="Tremont St / West St:&lt;br&gt;total Bikes 15" label="Tremont St / West St" desc="total Bikes 15"/>
+<marker group="1" lat="42.351114" lng="-71.066555" html="Stuart St / Charles St:&lt;br&gt;total Bikes 14" label="Stuart St / Charles St" desc="total Bikes 14"/>
+<marker group="1" lat="42.357259" lng="-71.050805" html="Rowes Wharf / Atlantic Ave:&lt;br&gt;total Bikes 15" label="Rowes Wharf / Atlantic Ave" desc="total Bikes 15"/>
+<marker group="1" lat="42.359669" lng="-71.051792" html="Aquarium Station:&lt;br&gt;total Bikes 19" label="Aquarium Station" desc="total Bikes 19"/>
+<marker group="1" lat="42.359724" lng="-71.059302" html="Government Center Station:&lt;br&gt;total Bikes 19" label="Government Center Station" desc="total Bikes 19"/>
+<marker group="1" lat="42.360549" lng="-71.056868" html="Faneuil Hall / Union St:&lt;br&gt;total Bikes 18" label="Faneuil Hall / Union St" desc="total Bikes 18"/>
+<marker group="1" lat="42.361238" lng="-71.065149" html="Cambridge St/Joy St:&lt;br&gt;total Bikes 15" label="Cambridge St/Joy St" desc="total Bikes 15"/>
+<marker group="1" lat="42.362769" lng="-71.05603" html="Cross St / Hanover St:&lt;br&gt;total Bikes 11" label="Cross St / Hanover St" desc="total Bikes 11"/>
+
+
+<marker group="2" lat="42.37339" lng="-71.127043" html="Charles River&lt;br&gt;Bike Path" label="Charles River Bike Path" desc="(Boston/Cambridge/Watertown)" />
+<marker group="2" lat="42.318927" lng="-71.123905" html="Jamaica Pond&lt;br&gt;Bike Path" label="Jamaica Pond Bike Path" desc="(Brookline)" />
+<marker group="2" lat="42.307516" lng="-71.120598" html="Arnold Arboretum&lt;br&gt;Bike Path" label="Arnold Arboretum Bike Path" desc="(Jamaica Plain)" />
+<marker group="2" lat="42.326383" lng="-71.048074" html="Carson Beach&lt;br&gt;Bike Path" label="Carson Beach Bike Path" desc="(South Boston)" />
+
+</markers>

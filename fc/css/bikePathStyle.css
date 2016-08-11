@@ -1,0 +1,18 @@
+.img{
+	width: 620px;
+	height: 450px;
+	float: left;
+	padding: 0.4em 0.4em 0 0.4em;
+}
+
+.acctab{
+	height: 480px;
+}
+
+.thumbs{
+	padding: 0.5em;
+}
+
+.thumbs h5{
+	color: #CC9933;
+}

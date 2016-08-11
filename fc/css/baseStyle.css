@@ -1,0 +1,145 @@
+@import url("navStyle.css");
+
+#header{
+	height: 120px;
+	background-image: url(../images/ubblogo1.png);
+	background-repeat:no-repeat;
+	width: 100%;
+}
+
+#headerTitle {
+	font-family: "century gothic", Arial, sans-serif;
+	font-weight: bold;
+	color: #FAD872;
+	background: none;
+	margin: 0 auto;
+	padding: 0.5em 0em 0em 0.5em;
+	float:left;
+	clear:left;
+}
+
+#sharebox{
+	color: #C8C8C8;
+	padding: 1em;
+	float:right;
+	clear:right;
+}
+
+a { text-decoration:none;}
+
+/* main content css - start */
+h1, h2, h3 {
+	color: #404040;
+	margin-top:	0;
+	margin-bottom:	0.3em;
+	padding-top:	0;
+	}
+
+h2 {
+	border-bottom:3px solid;
+	padding: 0.2em;
+	}
+	
+#part1 h1, #part1 h2 {
+	border-color:royalblue;
+}
+
+#part1 h3, h3 a{
+	color:royalblue;
+	border-color:black;
+}
+
+#part1 #featured h1, #part1 #featured  h2, #featured  #part1 h3 {
+	border-color: #eee;
+}
+
+#part1  .ui-tabs-panel {
+	cursor:pointer; 
+}
+
+#part2 h1, #part2 h2 {
+	border-color:#CC9933;
+}
+
+#part3 h1, #part3 h2 {
+	border-color:red;
+}
+
+#part4 h1, #part4 h2 {
+	border-color:cyan;
+}
+
+#part4 h3{
+	border: none;
+	margin-bottom: 1em;
+}
+
+#part4 h4{
+	font-weight:bold;
+}
+
+#part5 h1, #part5 h2 {
+	border-color:green;
+}
+	
+h3 {
+	border-top:1px solid;
+	padding-top:	0.7em;
+	}
+	
+#mainBody{
+	background: white;
+	font-family: verdana, Arial, sans-serif; 
+	padding: 0.4em 3em 0em 1em;
+	color:black;
+}
+
+#mainBody a:hover {
+  text-decoration:underline;
+}
+
+#mainBody a:active {
+  text-decoration:underline;
+}
+
+/* main content content css - end */
+
+#nextNav{
+	float: right;
+	clear: right;
+}
+
+.container{
+	background: #fff;
+}
+
+.box{
+	text-align: right;
+	margin: 0;
+}
+
+.span{
+	width:20px;
+}
+
+body{
+	padding:0;
+	margin:0;
+	background: #E0E0E0;
+}
+
+/* bike path gallery page / list style */
+#galleryList ul{
+	list-style: none;
+}
+
+#galleryList img{
+	float: left;
+	clear: left;
+}
+
+#galleryList .clear{
+	clear: left;
+}
+
+
